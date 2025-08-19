@@ -1,3 +1,4 @@
+
 fun main() {
     println("Qual o valor da massa?")
     val m = readln().toDouble()
