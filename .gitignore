@@ -30,4 +30,10 @@ bin/
 
 ### Mac OS ###
 .DS_Store
-.idea/
+
+# IntelliJ
+*.iml
+*.iws
+.idea/*
+!.idea/codeStyles
+!.idea/inspectionProfiles
